@@ -25,7 +25,7 @@
 # for letter in range(5, -1, -1):
 #     print(text[letter])
 
-text = "lauri"
+text = "laurii"
 
 length = len(text)
 print(length)
